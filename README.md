@@ -1,6 +1,8 @@
 # haplo-call
 A simplified, full-screen communication tool (progressive web app) designed for effortless one-touch video calls to single pre-identified contats, aimed at seniors or those needing an accessible, clutter-free interface ("haplo" is Greek for simple).
 
+Download and install haplo-call here: https://haplo-call.base44.app
+
 Please note: Haplo-call was created using vibe coding in base44 for personal use. It was not designed to server other people's needs and it's only made publicly available, in case anyone else finds it useful. The code remains on base44, as I do not have a paid plan. The documentation below is a copy of the documentation I created with base44 and which is included in the admin panel of the app (it was written by AI but I have made minor edits to the version presented here).
 
 ## Help & Documentation** 
